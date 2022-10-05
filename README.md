@@ -1,1 +1,1 @@
-# KIT_Engine 2D
+# KIT-Engine 2D
